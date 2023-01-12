@@ -1,3 +1,3 @@
 [submodule "lualib/BaseEditor"]
 	path = lualib/BaseEditor
-	url = ../factorio-editor
+	url = https://github.com/Zatone0/factorio-editor
