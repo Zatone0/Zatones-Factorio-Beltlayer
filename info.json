@@ -1,9 +1,9 @@
 {
-  "name": "beltlayer",
-  "title": "Beltlayer",
+  "name": "beltlayer_fix",
+  "title": "Zatone's Beltlayer",
   "description": "Route your belts freely underground.",
   "factorio_version": "1.1",
-  "author": "Therax",
+  "author": "Zatone",
   "version": "2.0.5",
   "dependencies": [
     "(?) boblogistics",
